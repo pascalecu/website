@@ -1,0 +1,4 @@
+baseURL = 'https://alecui.ro/'
+languageCode = 'en-us'
+title = 'Alecui'
+theme = "overanalytcl"
